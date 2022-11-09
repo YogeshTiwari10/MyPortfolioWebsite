@@ -75,6 +75,9 @@ const Footer = () => {
           </h3>
         </div>
       )}
+      {/* <footer className='portfolio__footer'>
+     <p> Created By Yogesh Tiwari ❤</p>
+      </footer> */}
     </>
   );
 };
