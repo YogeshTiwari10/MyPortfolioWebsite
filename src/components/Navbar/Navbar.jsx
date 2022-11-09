@@ -17,7 +17,7 @@ const Navbar = () => {
     <div className='app__navbar-logo'>
       
 
-     <p>  YOGESH />  </p>
+     <p>  YOGESH /&#62;  </p>
       
     </div>
     {/* for bigger devices */}
